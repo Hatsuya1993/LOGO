@@ -1,0 +1,21 @@
+*{
+    font-family: 'Fredoka', sans-serif;
+}
+
+.banner-content{
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url("https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?cs=srgb&dl=pexels-junior-teixeira-2047905.jpg&fm=jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 70vh;
+}
+
+.banner-content-edit{
+    height: 30vh;
+}
+
+.design-content-one{
+    height: 80vh;
+}
